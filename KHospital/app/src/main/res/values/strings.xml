@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EHealth</string>
+    <string name="url_main">http://dkonline.ehealth.gov.vn/#/index</string>
+    <string name="url_reg">http://dkonline.ehealth.gov.vn/secure/#/app/dang-ky-kham-benh</string>
+</resources>
