@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">EHealth</string>
-    <string name="url_main">http://dkonline.ehealth.gov.vn/#/index</string>
+    <string name="url_main">http://dkonline.ehealth.gov.vn/mobile</string>
+    <string name="domain">ehealth.gov.vn</string>
     <string name="url_reg">http://dkonline.ehealth.gov.vn/secure/#/app/dang-ky-kham-benh</string>
+    <string name="error001">Kết nối không thành công. \nVui lòng kiểm tra lại hệ thống mạng hoặc liên hệ với người quản trị!</string>
 </resources>

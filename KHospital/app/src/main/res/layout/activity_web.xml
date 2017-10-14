@@ -57,7 +57,16 @@
         <WebView
             android:id="@+id/wvBrowser"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"></WebView>
+            android:layout_height="match_parent"/>
+        <Button
+            android:id="@+id/btReload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tải lại"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            />
 
     </RelativeLayout>
 </RelativeLayout>
